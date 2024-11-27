@@ -1,0 +1,16 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f8f9fa;
+}
+
+h1 {
+  color: #343a40;
+}
+canvas {
+  background-color: #fff;
+  border-radius: 8px;
+}
+.list-group-item {
+  font-size: 1.2em;
+  font-weight: bold;
+}
